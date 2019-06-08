@@ -1,12 +1,12 @@
 {
-  "name": "linter-ui-plus",
+  "name": "linter-ui-ultra",
   "main": "./lib/index.js",
   "version": "0.3.2",
   "description": "An experiment into an enhanced UI for the Atom Linter package.",
   "keywords": [
     "linter-ui"
   ],
-  "repository": "https://github.com/mehcode/linter-ui-plus",
+  "repository": "https://github.com/ArchangelZeero/linter-ui-ultra",
   "license": "MIT",
   "engines": {
     "atom": ">=1.17.0 <2.0.0"
@@ -91,6 +91,29 @@
         "Right"
       ],
       "default": "Left",
+      "order": 2
+    },
+    "showTooltip": {
+      "description": "Show inline issue tooltips",
+      "type": "boolean",
+      "default": true,
+      "order": 1
+    },
+    "showProviderName": {
+      "type": "boolean",
+      "description": "Show provider name in tooltip (Hint: It's always shown in the panel)",
+      "default": false,
+      "order": 1
+    },
+    "tooltipFollows": {
+      "type": "string",
+      "description": "Choose whether tooltips show on mouseover, or follow the keyboard cursor",
+      "enum": [
+        "Both",
+        "Mouse",
+        "Keyboard"
+      ],
+      "default": "Both",
       "order": 2
     }
   }
