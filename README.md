@@ -19,3 +19,4 @@ This is a fork of [linter-ui-plus](https://github.com/mehcode/linter-ui-plus).
 
  - An extra gutter is added that will show an error, warning, or info glyph
  - The source of the message will be highlighted in the editor with a red (error), yellow (warning), or blue (info) wavy line
+ - When mouse is over editor highlights, a tooltip displays all the needed info
