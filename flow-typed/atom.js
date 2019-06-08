@@ -3,6 +3,7 @@
 declare var atom: any
 
 declare module 'atom' {
+  declare type Disposable = any;
   declare type TextEditor = any;
   declare type TextBuffer = any;
 
