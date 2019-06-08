@@ -1,12 +1,12 @@
 {
-  "name": "linter-ui-plus",
+  "name": "linter-ui-ultra",
   "main": "./lib/index.js",
   "version": "0.3.2",
   "description": "An experiment into an enhanced UI for the Atom Linter package.",
   "keywords": [
     "linter-ui"
   ],
-  "repository": "https://github.com/mehcode/linter-ui-plus",
+  "repository": "https://github.com/ArchangelZeero/linter-ui-ultra",
   "license": "MIT",
   "engines": {
     "atom": ">=1.17.0 <2.0.0"
