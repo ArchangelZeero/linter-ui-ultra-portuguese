@@ -1,0 +1,5 @@
+'.linter-ui-ultra-portuguese.panel':
+  'enter': 'linter-ui-ultra-portuguese:open-selected-entry'
+
+'.platform-darwin, .platform-linux, .platform-win32':
+  'alt-shift-d': 'linter-ui-ultra-portuguese:toggle-panel'
