@@ -1,7 +1,7 @@
 # Linter-UI-Ultra
 > An experiment into an enhanced UI for the Atom Linter package.
 
-This is a fork of [linter-ui-plus](https://github.com/mehcode/linter-ui-plus).
+This is a fork of [linter-ui-plus](https://github.com/mehcode/linter-ui-plus), translation of [linter-ui-ultra](https://github.com/ArchangelZeero/linter-ui-ultra) to Brazillian Portuguese.
 
 #### This is an _alpha_ release. Not all features are available (yet) that are in `linter-ui-default` and those that are present are subject to change. Please open issues with any feedback you have.
 ## Panel
